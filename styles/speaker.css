@@ -85,7 +85,17 @@ header img {
 main {
 	clear: left;
 }
-
+figure {
+	border-bottom: 3px solid black; 
+	padding: 4px;
+	margin: auto; 
+}
+figcaption {
+	color: black;
+	font-weight: bold; 
+	padding: 1%;
+	text-align: center;
+}
 /* the styles for the section */
 section {
 	width: 525px;
